@@ -1,7 +1,7 @@
 import java.io.*;
 import java.nio.file.Files;
 
-public class FileCreateReadWrite {
+public class FileCreateReadWritePrint {
     public static void main(String[] args) {
         File FN = new File("ashiq-folder");
         FN.mkdirs();
